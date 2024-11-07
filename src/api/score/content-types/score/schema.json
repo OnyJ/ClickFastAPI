@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "scores",
+  "info": {
+    "singularName": "score",
+    "pluralName": "scores",
+    "displayName": "Score",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Username": {
+      "type": "string"
+    },
+    "Amount": {
+      "type": "integer"
+    },
+    "Avatar": {
+      "type": "string"
+    }
+  }
+}
